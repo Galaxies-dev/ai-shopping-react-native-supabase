@@ -1,0 +1,18 @@
+const categories = [
+  'Drink',
+  'Vegetables',
+  'Fruits',
+  'Meat',
+  'Fish',
+  'Dairy',
+  'Bread & Bakery',
+  'Pasta, Rice & Cereal',
+  'Baking',
+  'Canned',
+  'Frozen',
+  'Sweets',
+  'Deli',
+  'Household',
+  'Personal Care',
+  'Pet Care',
+];

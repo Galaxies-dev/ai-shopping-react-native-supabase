@@ -1,0 +1,1 @@
+curl -L -X POST 'https://bllnusrqmpsgeysqhbpx.supabase.co/functions/v1/categoryEmbeddings' -H 'Authorization: Bearer YOURANONKEY'
